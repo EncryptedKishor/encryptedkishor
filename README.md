@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/HalemoGPA/HalemoGPA/main/images/Developer.gif"/>
+
   ### Hello World!  <a href="#"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></a>
   ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
   
