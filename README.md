@@ -7,7 +7,7 @@
   
   - 🔭 I’m currently working as a Software Developer
   - 🌱 I’m currently learning Machine Learning and Big Data
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  - ⚡ I revel in the ceaseless quest for novelty and the delightful exploration of uncharted realms.
   
   #### 📫 How to reach me:
   
