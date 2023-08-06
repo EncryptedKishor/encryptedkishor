@@ -1,7 +1,7 @@
   ### Hello World!  <a href="#"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></a>
   ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
   
-<a href="#"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /></a>
+<a href="https://github.com/EncryptedKishor/"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /></a>
   
   - 🔭 I’m currently working as a Software Developer
   - 🌱 I’m currently learning Machine Learning and Big Data
