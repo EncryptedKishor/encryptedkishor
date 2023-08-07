@@ -1,9 +1,7 @@
-<img src="https://raw.githubusercontent.com/HalemoGPA/HalemoGPA/main/images/Developer.gif"/>
+<a href="https://github.com/EncryptedKishor/"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /></a>
 
   ### Hello World!  <a href="#"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></a>
   ![](https://camo.githubusercontent.com/e8d12c1bfe933583a83fe1521d746d4a284d0647bc775a2fe9a576dd73fb0807/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d48616c656d6f4750412f48616c656d6f475041)
-  
-<a href="https://github.com/EncryptedKishor/"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /></a>
   
   - 🔭 I’m currently working as a Software Developer
   - 🌱 I’m currently learning Machine Learning and Big Data
